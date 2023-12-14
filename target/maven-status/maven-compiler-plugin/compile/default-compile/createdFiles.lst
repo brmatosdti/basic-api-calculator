@@ -1,0 +1,6 @@
+com/goodsystems/exceptions/handler/CustomizedResponseEntityExceptionHandler.class
+com/goodsystems/services/MathService.class
+com/goodsystems/controllers/MathController.class
+com/goodsystems/Startup.class
+com/goodsystems/exceptions/ExceptionResponse.class
+com/goodsystems/exceptions/UnsupportedMathOperationException.class
